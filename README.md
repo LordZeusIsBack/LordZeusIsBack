@@ -12,8 +12,8 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-zeus-sharma/)
-<a href="https://www.geeksforgeeks.org/user/lordzeus/">
-<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GFG" width="28" height="28"/></a>
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lordzeus/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavsharma5645@gmail.com)
 
 # 💻 Tech Stack:
 
