@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-zeus-sharma/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lordzeus/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavsharma5645@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/thunder_bolt_is_mine)
 
 # 💻 Tech Stack:
 
@@ -32,6 +33,7 @@
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![REST API v1.1](https://img.shields.io/badge/REST%20API-v1.1-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## 🗄️ Databases
