@@ -54,11 +54,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black)
 
-# 🏆 Github Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LordZeusIsBack&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=LordZeusIsBack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordZeusIsBack&layout=compact&theme=dark)
