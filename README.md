@@ -12,9 +12,9 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-zeus-sharma/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lordzeus/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anubhavsharma5645@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/thunder_bolt_is_mine)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lordzeus/)
 
 # 💻 Tech Stack:
 
@@ -56,7 +56,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=LordZeusIsBack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordZeusIsBack&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=LordZeusIsBack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true%22%20alt=%22GitHub%20Stats%22%20height=%22170%22)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LordZeusIsBack&theme=tokyonight&hide_border=true&card_width=402)](https://git.io/streak-stats)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LordZeusIsBack&theme=react-dark&include_all_commits=true&count_private=true)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  <p>Building communities, connecting people, and creating impact through technology.</p>
+  <p>© 2025 Anubhav Sharma. All rights reserved.</p>
+</div>
