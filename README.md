@@ -7,7 +7,7 @@
 🛠️ Currently working with Python, TensorFlow, PyTorch, Flask, FastAPI, AWS, and Django.  
 🧑‍💻 Machine Learning Intern at Feynn Labs | Former Django Intern at Gulmarg Inn  
 📡 Built a drone-based surveillance system with real-time facial recognition and AWS cloud integration.  
-🌐 Portfolio: [anubhav-portfolio-omega.vercel.app](https://anubhav-portfolio-omega.vercel.app)
+🌐 Portfolio: [anubhav-sharma.vercel.app](https://anubhav-sharma.vercel.app)
 
 ## 🌐 Socials:
 
