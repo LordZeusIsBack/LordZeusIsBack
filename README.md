@@ -5,7 +5,7 @@
 
 🚀 Passionate about leveraging ML, AI & Cloud technologies to solve real-world problems — from drone surveillance systems to scalable web applications.  
 🛠️ Currently working with Python, TensorFlow, PyTorch, Flask, FastAPI, AWS, and Django.  
-🧑‍💻 Machine Learning Intern at Feynn Labs | Former Django Intern at Gulmarg Inn  
+🧑‍💻 Research Intern at IIT Jammu | Former Django Intern at Gulmarg Inn  
 📡 Built a drone-based surveillance system with real-time facial recognition and AWS cloud integration.  
 🌐 Portfolio: [anubhav-sharma.vercel.app](https://anubhav-sharma.vercel.app)
 
