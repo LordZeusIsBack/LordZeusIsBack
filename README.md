@@ -56,7 +56,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=LordZeusIsBack&show_icons=true&count_private=true&theme=radical&include_all_commits=true%22%20alt=%22GitHub%20Stats%22%20height=%22170%22)
+![](https://github-readme-stats.vercel.app/api?username=LordZeusIsBack&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LordZeusIsBack&theme=tokyonight&hide_border=true&card_width=357)](https://git.io/streak-stats)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LordZeusIsBack&theme=react-dark&include_all_commits=true&count_private=true)
 <div align="center">
