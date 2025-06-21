@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Sharma</h1>
-<h3 align="center">Machine Learning Intern | AI Researcher</h3>
+<h3 align="center">AI Research Intern | AI Researcher</h3>
 
 # 💫 About Me:
 
