@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anubhav Sharma</h1>
-<h3 align="center">AI Research Intern | AI Researcher</h3>
+<h3 align="center">X-AI Research Intern | AI Researcher</h3>
 
 # 💫 About Me:
 
 🚀 Passionate about leveraging ML, AI & Cloud technologies to solve real-world problems — from drone surveillance systems to scalable web applications.  
 🛠️ Currently working with Python, TensorFlow, PyTorch, Flask, FastAPI, AWS, and Django.  
-🧑‍💻 Research Intern at IIT Jammu | Former Django Intern at Gulmarg Inn  
+🧑‍💻 Former Research Intern at IIT Jammu | Former Django Intern at Gulmarg Inn  
 📡 Built a drone-based surveillance system with real-time facial recognition and AWS cloud integration.  
 🌐 Portfolio: [anubhav-sharma.vercel.app](https://anubhav-sharma.vercel.app)
 
