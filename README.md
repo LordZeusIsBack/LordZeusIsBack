@@ -56,8 +56,8 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=LordZeusIsBack&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=LordZeusIsBack)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LordZeusIsBack&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=LordZeusIsBack&theme=radical)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LordZeusIsBack&theme=react-dark&include_all_commits=true&count_private=true)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
