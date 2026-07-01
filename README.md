@@ -62,5 +62,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   <p>Building communities, connecting people, and creating impact through technology.</p>
-  <p>© 2025 Anubhav Sharma. All rights reserved.</p>
+  <p>© 2026 Anubhav Sharma. All rights reserved.</p>
 </div>
